@@ -12,13 +12,15 @@ This repository contains a dynamic, interactive COVID-19 dashboard built using D
 - worldometer_data.csv
 ## Installation
 To run this dashboard locally, follow these steps:
-  - Clone the Repository:
-    ``` git clone https://github.com/your-username/covid19-dashboard.git ```
-    ```cd covid19-dashboard ```
-  - Install the required Python libraries using pip:
-    ```pip install -r requirements.txt```
-  - Add Your Data:
-    Place the required CSV files (cleaned_covid_data1.csv, worldometer_data1.csv, and covid_19_clean_complete1.csv) in the project folder and update the file path
+  * Clone the Repository:
+      ``` git clone https://github.com/your-username/covid19-dashboard.git ```
+      ```cd covid19-dashboard ```
+  * Install the required Python libraries using pip:
+      ```pip install -r requirements.txt```
+  * Add Your Data:
+      Place the required CSV files (cleaned_covid_data1.csv, worldometer_data1.csv, and covid_19_clean_complete1.csv) in the project folder and update the file path
+
+ -  Or you can download all the files and change the Data-set path in the code and run it
 
 ## User Interaction:
 - Animated Geo Map: Time-series animation showing the global spread of COVID-19 cases.
