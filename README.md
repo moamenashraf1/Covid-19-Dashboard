@@ -6,10 +6,10 @@ This repository contains a dynamic, interactive COVID-19 dashboard built using D
 - Python
 - Plotly
 - Pandas
-## Data-Sets Sources
-- cleaned_covid_data1.csv
-- covid_19_clean_complete1.csv
-- worldometer_data1.csv
+## Data-Sets Sources from kaggle
+- cleaned_covid_data.csv
+- covid_19_clean_complete.csv
+- worldometer_data.csv
 ## Installation
 To run this dashboard locally, follow these steps:
   - Clone the Repository:
